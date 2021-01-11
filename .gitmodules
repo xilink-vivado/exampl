@@ -1,0 +1,28 @@
+[submodule "bcd_encoder"]
+	path = bcd_encoder
+	url = https://github.com/xilink-vivado/exampl/tree/main/bcd_encoder
+	branch = master
+[submodule "counter"]
+	path = counter
+	url = https://github.com/xilink-vivado/exampl/tree/main/counter
+	branch = master
+[submodule "digit_selector"]
+	path = digit_selector
+	url = https://github.com/xilink-vivado/exampl/tree/main/digit_selector
+	branch = master
+[submodule "output_mux"]
+	path = output_mux
+	url = https://github.com/xilink-vivado/exampl/tree/main/output_mux
+	branch = master
+[submodule "reset"]
+	path = reset
+	url = https://github.com/xilink-vivado/exampl/tree/main/reset
+	branch = master
+[submodule "seg7_encoder"]
+	path = seg7_encoder
+	url = https://github.com/xilink-vivado/exampl/tree/main/seg7_encoder
+	branch = master
+[submodule "packages"]
+	path = packages
+	url = https://github.com/xilink-vivado/exampl/tree/main/packages
+	branch = master
